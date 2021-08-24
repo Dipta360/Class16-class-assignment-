@@ -45,12 +45,14 @@
     margin: 25px 0;
 }
 
-.banner span{
+.banner span a{
     background: #337ab7;
     display: inline-block;
     padding: 10px 15px;
     border-radius: 5px;
     margin-top: 28px;
+    text-decoration: none;
+    color: #fff;
 }
 
 .banner::after{
